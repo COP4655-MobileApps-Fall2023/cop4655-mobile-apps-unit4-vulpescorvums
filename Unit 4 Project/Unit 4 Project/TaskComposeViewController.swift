@@ -35,7 +35,6 @@ class TaskComposeViewController: UIViewController {
         dismiss(animated: true)
     }
 
-    
     @IBAction func didTapCancelButton(_ sender: Any) {
         dismiss(animated: true)
     }
